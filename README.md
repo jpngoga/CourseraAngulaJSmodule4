@@ -1,2 +1,0 @@
-# CourseraAngulaJSAssignment4
-assignment4
